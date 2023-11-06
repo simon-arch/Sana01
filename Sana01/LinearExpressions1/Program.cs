@@ -26,9 +26,9 @@
         z = (Math.Pow(Math.Pow(x, 2) - 2 * x, 3) - 4 * (Math.Pow(x, 4) + 1)) * (1 - b) / (5 * a + 3 * b);
         r = (1 / 2.0 * a + 3 / 4.0 * b - 7 / 5.0) / (3 * c + 1) + (1 / (a - c));
 
-        Console.Write("\nx = "); Console.WriteLine(x);
-        Console.Write("y = "); Console.WriteLine(y);
-        Console.Write("z = "); Console.WriteLine(z);
-        Console.Write("r = "); Console.WriteLine(r);
+        Console.WriteLine("\nx = {0}", x);
+        Console.WriteLine("y = {0}", y);
+        Console.WriteLine("z = {0}", z);
+        Console.WriteLine("r = {0}", r);
     }
 }
