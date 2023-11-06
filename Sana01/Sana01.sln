@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearExpressions1", "LinearExpressions1\LinearExpressions1.csproj", "{30FB3493-D45C-4CF6-8491-07ACA954169D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinearExpressions1", "LinearExpressions1\LinearExpressions1.csproj", "{30FB3493-D45C-4CF6-8491-07ACA954169D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearExpressions2", "LinearExpressions2\LinearExpressions2.csproj", "{CF647226-C3F9-48C5-86D0-DA52E272296E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{30FB3493-D45C-4CF6-8491-07ACA954169D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30FB3493-D45C-4CF6-8491-07ACA954169D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30FB3493-D45C-4CF6-8491-07ACA954169D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF647226-C3F9-48C5-86D0-DA52E272296E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF647226-C3F9-48C5-86D0-DA52E272296E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF647226-C3F9-48C5-86D0-DA52E272296E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF647226-C3F9-48C5-86D0-DA52E272296E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
